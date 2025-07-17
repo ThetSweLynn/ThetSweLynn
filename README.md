@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Lynn | Software Engineering Student & Developer</h1>
+<p align="center">
+  <a href="https://github.com/ThetSweLynn">
+    <img src="https://img.shields.io/github/followers/ThetSweLynn?label=GitHub&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thet-swe-lin-9a7187324/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-<!--
-**ThetSweLynn/ThetSweLynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👤 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Lynn
+- **Role:** Developer | 4th Year Software Engineering Student
+- **Interests:** Web Development, AI (RAG), Creative Coding, Doodling
+- **Location:** Myanmar
+- **GitHub:** [ThetSweLynn](https://github.com/ThetSweLynn)
+
+---
+
+## 🛠️ Technical Skills
+
+| Languages     | Web         | Frameworks/Libraries | AI/ML        | Tools & Others  |
+|---------------|-------------|----------------------|--------------|-----------------|
+| Python        | HTML5       | React                | RAG (Retrieval-Augmented Generation) | Git, GitHub     |
+| Java          | CSS3        | JavaScript           |              |                 |
+| JavaScript    |             |                      |              |                 |
+
+---
+
+## 🗂️ Projects & Highlights
+
+- ✨ See my favorite projects in my [starred repositories](https://github.com/ThetSweLynn?tab=stars)
+- 🏗️ Explore my [public repositories](https://github.com/ThetSweLynn?tab=repositories) (6+ and growing!)
+- 📈 Always learning, building, and open to collaboration
+
+---
+
+## 🎨 Hobbies
+
+- Doodling and digital sketching in my free time
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [thet-swe-lin-9a7187324](https://www.linkedin.com/in/thet-swe-lin-9a7187324/)
+- **GitHub:** [ThetSweLynn](https://github.com/ThetSweLynn)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
