@@ -25,8 +25,9 @@
 | Languages     | Web         | Frameworks/Libraries | AI/ML        | Tools & Others  |
 |---------------|-------------|----------------------|--------------|-----------------|
 | Python        | HTML5       | React                | RAG (Retrieval-Augmented Generation) | Git, GitHub     |
-| Java          | CSS3        | JavaScript           |              |                 |
-| JavaScript    |             |                      |              |                 |
+| Dart          | CSS3        | JavaScript           |              | Firebase        |
+| Java          |             | Flutter              |              | FlutterFlow     |
+| JavaScript    |             |                      |              | Strapi          |
 
 ---
 
@@ -48,6 +49,7 @@
 
 - **LinkedIn:** [thet-swe-lin-9a7187324](https://www.linkedin.com/in/thet-swe-lin-9a7187324/)
 - **GitHub:** [ThetSweLynn](https://github.com/ThetSweLynn)
+- **GitHub (school):** [ThetSweLynn](https://github.com/ThetSweLin)
 
 ---
 
