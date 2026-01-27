@@ -25,8 +25,8 @@
 | Languages     | Web         | Frameworks/Libraries | AI/ML        | Tools & Others  |
 |---------------|-------------|----------------------|--------------|-----------------|
 | Python        | HTML5       | React                | RAG (Retrieval-Augmented Generation) | Git, GitHub     |
-| Dart          | CSS3        | JavaScript           |              | Firebase        |
-| Java          |             | Flutter              |              | FlutterFlow     |
+| Dart          | CSS3        | Flutter              |              | Firebase        |
+| Java          |             |                      |              | FlutterFlow     |
 | JavaScript    |             |                      |              | Strapi          |
 
 ---
