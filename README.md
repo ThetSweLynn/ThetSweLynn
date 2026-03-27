@@ -12,22 +12,11 @@
 
 ## 👤 About Me
 
-- **Name:** Lynn
+- **Name:** Lin
 - **Role:** Developer | 4th Year Software Engineering Student
-- **Interests:** Web Development, AI (RAG), Creative Coding, Doodling
+- **Interests:** Web Development (MERN), Mobile Development (Flutter), AI (RAG)
 - **Location:** Myanmar
 - **GitHub:** [ThetSweLynn](https://github.com/ThetSweLynn)
-
----
-
-## 🛠️ Technical Skills
-
-| Languages     | Web         | Frameworks/Libraries | AI/ML        | Tools & Others  |
-|---------------|-------------|----------------------|--------------|-----------------|
-| Python        | HTML5       | React                | RAG (Retrieval-Augmented Generation) | Git, GitHub     |
-| Dart          | CSS3        | Flutter              |              | Firebase        |
-| Java          |             |                      |              | FlutterFlow     |
-| JavaScript    |             |                      |              | Strapi          |
 
 ---
 
@@ -36,12 +25,6 @@
 - ✨ See my favorite projects in my [starred repositories](https://github.com/ThetSweLynn?tab=stars)
 - 🏗️ Explore my [public repositories](https://github.com/ThetSweLynn?tab=repositories) (6+ and growing!)
 - 📈 Always learning, building, and open to collaboration
-
----
-
-## 🎨 Hobbies
-
-- Doodling and digital sketching in my free time
 
 ---
 
