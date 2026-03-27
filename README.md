@@ -1,4 +1,4 @@
-<h1 align="center">Lynn | Software Engineering Student & Developer</h1>
+<h1 align="center">Lin | Software Engineer & Developer</h1>
 <p align="center">
   <a href="https://github.com/ThetSweLynn">
     <img src="https://img.shields.io/github/followers/ThetSweLynn?label=GitHub&style=social" alt="GitHub Followers"/>
@@ -12,7 +12,8 @@
 
 ## 👤 About Me
 
-- **Name:** Lin
+- **Name:** Thet Swe Lin
+- **Nickname:** Lin / Lynn
 - **Role:** Developer | 4th Year Software Engineering Student
 - **Interests:** Web Development (MERN), Mobile Development (Flutter), AI (RAG)
 - **Location:** Myanmar
